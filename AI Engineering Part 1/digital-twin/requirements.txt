@@ -1,0 +1,5 @@
+openai
+gradio
+chromadb
+huggingface_hub
+requests

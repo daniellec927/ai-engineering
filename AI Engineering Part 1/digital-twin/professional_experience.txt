@@ -1,0 +1,85 @@
+AI Perception & Robotics Intern
+
+ZEKI | Zentrum für erlebbare KI und Digitalisierung · Internship
+
+Jun 2025 - Aug 2025 · 3 mos
+
+Berlin, Germany · On-site
+
+- Built the real-time social-perception system for a companion robot serving elderly users, dynamically deciding whether to attend to the nearest person or the active speaker so conversations felt natural.
+- Added real-time emotion mirroring with DeepFace, enabling the robot to recognize a user's facial expression and respond in kind to improve companionship.
+- Diagnosed and fixed a production computer-vision failure — face detection broke in the low-light, backlit conditions where elderly users actually sat — by writing an image color-correction step that made detection reliable.
+- Reverse-engineered undocumented limits in the vendor SDK to implement behaviors the platform didn't support out of the box.
+- Tech: Python, OpenCV, DeepFace, real-time computer vision, embedded/robotics integration.
+
+ Python (Programming Language), Computer Vision and +8 skills
+
+U.S. Department of Veterans Affairs logo
+Digital Media Engagement - Prompt Engineer Team Coordinator Intern
+
+U.S. Department of Veterans Affairs · Internship
+
+Sep 2024 - Jun 2025 · 10 mos
+
+Remote
+
+- Built multi-step LLM pipelines with Claude and ChatGPT to draft articles for national publications, using few-shot and chain-of-thought prompting to hold consistent style and structure.
+- Designed a claim-level fact-checking system that cross-references each statement against source documents, cutting hallucinations and accelerating editorial review after an early version produced fluent but unverified output.
+- Enabled non-technical teammates to adopt these AI workflows in their daily work, becoming the person others came to with AI questions.
+- Promoted to Team Coordinator; coordinated cross-functional workflows and used Hootsuite analytics to measurably improve how AI-drafted content performed.
+- Tech: Claude, ChatGPT/GPT, prompt engineering, LLM evaluation, RAG-style fact-checking.
+
+ Prompt Engineering, AI Prompting and +8 skills
+
+UCLA Psi Chi
+
+1 yr 6 mos
+
+Los Angeles, California, United States · On-site
+
+Research Assistant
+
+Nov 2023 - Jun 2024 · 8 mos
+
+- Co-designed and ran a 600-student study on help-seeking among undergraduate students of color, authoring IRB protocols across 7 categories.
+- Applied ANOVA to identify statistically significant patterns across demographic groups, then translated results into a poster presented to 100+ faculty and peers.
+- Awarded the 2024 UCLA Psi Chi Award of Achievement for Diversity and Equality in Research.
+- Tech: statistical analysis (ANOVA), experimental design, research methods.
+
+Skills: R (Programming Language), Statistical Data Analysis, +4 skills
+
+Member
+
+Jan 2023 - Jun 2024 · 1 yr 6 mos
+
+- Motivated members to succeed academically, by providing over 10 research opportunities and holding meetings for the psychology students, as the International Honor Society in Psychology.
+
+Skills: Research Skills
+
+Research Team Member
+
+UCLA AI Safety Alignment Research Team
+
+Jan 2023 - Jun 2024 · 1 yr 6 mos
+
+Los Angeles, California, United States · On-site
+
+- Built a GPU-accelerated ray tracer in Rust/Vulkan and an AI image denoiser using a diffusion model, demonstrating low-level systems and graphics range.
+- Tech: Rust, Vulkan, diffusion models, GPU programming.
+
+ Rust (Programming Language), Graphics Processing Unit and +3 skills
+
+Research Assistant
+
+The Computational Vision and Learning Lab
+
+Jan 2023 - Mar 2024 · 1 yr 3 mos
+
+Los Angeles, California, United States · On-site
+
+- Built a Vision Transformer from scratch for multi-class image classification (patch embeddings, self-attention).
+- Taught Transformer and Vision-Transformer internals to fellow research assistants and faculty in lab-wide workshops.
+- Benchmarked an LLM's reasoning against a compositional-generalization paper, comparing how humans and models recombine known concepts.
+- Tech: PyTorch, Vision Transformers, deep learning, model evaluation.
+
+ Transformer Models, Python (Programming Language) and +5 skills
